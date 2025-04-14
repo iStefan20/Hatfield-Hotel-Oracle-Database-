@@ -40,7 +40,7 @@ Room prices depend on:
 The total booking cost includes room rates per night, adjusted for season and day, plus any additional extras
 
 
-SQL Skills Acquired
+#### SQL Skills Acquired
 
 PL/SQL: Writing and executing stored procedures, functions, and packages.
 
